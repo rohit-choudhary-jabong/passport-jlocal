@@ -1,5 +1,5 @@
 {
-  "name": "passport-jblocal",
+  "name": "passport-jlocal",
   "version": "1.0.0",
   "description": "Local username and password authentication strategy for Jabong Passport implementation.",
   "keywords": [
@@ -16,6 +16,11 @@
     "email": "rohit.choudhary@jabong.com",
     "url": "http://www.jabong.com/"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rohit-choudhary-jabong/passport-jlocal"
+  },
+	
   "licenses": [
     {
       "type": "MIT",
