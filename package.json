@@ -1,6 +1,6 @@
 {
   "name": "passport-jlocal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Local username and password authentication strategy for Jabong Passport implementation.",
   "keywords": [
     "passport",
